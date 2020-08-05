@@ -9,6 +9,6 @@
 ================== <strong>Atualização</strong> - Agosto/2020 ====================
 
 #Consertei erros de código antigos;
-#Organizei melhor a identação, se tratava do meu primeiro projeto, logo havia alguns problemas;
-#Otimizei o tamanho total, eliminando imagens/vídeos desnecessários.
+#Organizei melhor a identação, se tratava do meu primeiro projeto, logo havia alguns problemas;<br>
+#Otimizei o tamanho total, eliminando imagens/vídeos desnecessários.<br>
 
